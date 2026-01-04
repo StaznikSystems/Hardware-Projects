@@ -1,7 +1,5 @@
 // PROJECT  :EEPROM Burner
 // PURPOSE  :Burns data onto an EEPROM chip
-// COURSE   :ICS4U-E
-// AUTHOR   :G. Staznik
 // DATE     :27/10/24
 // MCU      :328P (Nano)
 // STATUS   :Working
