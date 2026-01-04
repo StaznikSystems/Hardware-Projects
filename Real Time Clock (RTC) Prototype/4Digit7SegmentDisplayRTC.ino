@@ -1,7 +1,5 @@
 // PROJECT  :4Digit7SegmentDisplay1234
 // PURPOSE  :Set and display time
-// COURSE   :ICS3U
-// AUTHOR   :Goran Staznik
 // DATE     :2024 02 20
 // MCU      :85
 // STATUS   :Working
@@ -117,3 +115,4 @@ uint8_t DEC2BCD(uint8_t value) {  //convert to BCD
 uint8_t BCD2DEC(uint8_t value) {  //convert from BCD
   return (value >> 4) * 10 + (value & 0x0F);
 }
+
