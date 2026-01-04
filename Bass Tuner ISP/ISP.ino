@@ -1,7 +1,5 @@
 // PROJECT  : Automatic Tuner
 // PURPOSE  : Finds frequency of note using arduinoFFT library
-// AUTHOR   : Goran Staznik
-// COURSE   : ICS3U-E
 // DATE     : Dec 9, 2023
 // MCU      : 328P (Nano)
 // STATUS   : Working
