@@ -11,8 +11,6 @@ Contents:
 Abreviations:
 - BEMF: Back EMF (produced by motors to enable phase switching)
 
-Contributers:
-Goran Staznik (2025) -> Main Contributer
  ==================================================================
 */
 
@@ -192,4 +190,5 @@ void CH_AL() {
 void CH_BL() {
   PORTB = (1 << PB6) | (1 << PB3);
   TCCR1D = 0x08;  //Turn pin 12 (PB6) (OC1AX) PWM ON (pin 18 (PB2)  & pin 20 (PB0)  OFF)
+
 }
