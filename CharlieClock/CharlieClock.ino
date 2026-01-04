@@ -1,7 +1,5 @@
 // PROJECT  :CharlieClock
 // PURPOSE  :To demonstrate Charlieplexing
-// COURSE   :ICS4U-E
-// AUTHOR   :G. Staznik
 // DATE     :24/9/24
 // MCU      :328P (Nano)
 // STATUS   :Working
