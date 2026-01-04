@@ -14,11 +14,6 @@ angles)
 - getXAccel, getYAccel, getZAccel -> gets the Acceleration without 
 gravity with earth reference
 
-Contributers:
-Goran Staznik (2025) -> Main Contributer
-Jeff Rowberg (2012) -> MPU library (used to acces the
-internal DMP due to lack of documentation and to compute 
-Quaterions)
  ==================================================================
 */
 
